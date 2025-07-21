@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Chinmay Saseendran 👋</h1>
 <h3 align="center">Student @ Amrita Vishwa Vidyapeetham ✨, Kochi</h3>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="45%" />
-  &nbsp;&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="45%" />
+<p align="center" style="display: flex; justify-content: center; gap: 0; padding: 0; margin: 0;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="45%" style="margin: 0; padding: 0;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="45%" style="margin: 0; padding: 0;" />
 </p>
+
 
 # 💫 About Me:
 I am currently pursuing a Master's degree in Computer Applications and aspiring to become a skilled software developer. My interests lie in Artificial Intelligence, software development, and web development. I am actively enhancing my technical skills and open to freelance opportunities to gain practical experience and contribute to impactful projects.
