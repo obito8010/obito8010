@@ -2,9 +2,10 @@
 <h3 align="center">Student @ Amrita Vishwa Vidyapeetham ✨, Kochi</h3>
 
 <p align="center" style="display: flex; justify-content: center; gap: 0; padding: 0; margin: 0;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="45%" style="margin: 0; padding: 0;" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="45%" style="margin: 0; padding: 0;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="48%" style="margin: 0; padding: 0;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE0cnhzcXo2aWhhcjhvNWRjdG5yeTRybXE5dDl2cGV6cnd6YndpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" width="48%" style="margin: 0; padding: 0;" />
 </p>
+
 
 
 # 💫 About Me:
